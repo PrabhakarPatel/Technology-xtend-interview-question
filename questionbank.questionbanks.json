@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6571ddc038f3d7e669ca3b7c"
+  },
+  "question": "Q1. What does HTML stand for?",
+  "choiceA": "A) Hyper Text Markup Language",
+  "choiceB": "B) High-level Textual Modulation Language",
+  "choiceC": "C) Hyperlink and Text Markup Language",
+  "choiceD": "D) Home Tool Markup Language",
+  "answer": "Answer: A)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571de4e38f3d7e669ca3b7e"
+  },
+  "question": "Q2. Which programming language is commonly used for building dynamic web pages?",
+  "choiceA": "A) Node.Js",
+  "choiceB": "B) JavaScript",
+  "choiceC": "C) Python",
+  "choiceD": "D) C#",
+  "answer": "Answer: B)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571df1638f3d7e669ca3b80"
+  },
+  "question": "Q3. What does CSS stand for?",
+  "choiceA": "A) Computer Style Sheets",
+  "choiceB": "B) Creative Style Sheets",
+  "choiceC": "C) Cascading Style Sheets",
+  "choiceD": "D) Colorful Style Sheets",
+  "answer": "Answer: C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571df9138f3d7e669ca3b82"
+  },
+  "question": "Q4. What is the purpose of the \"alt\" attribute in an HTML image tag?",
+  "choiceA": "A) It defines the alignment of the image.",
+  "choiceB": "B) It specifies the image source URL.",
+  "choiceC": "C) It provides alternative text for the image.",
+  "choiceD": "D) It sets the image border style.",
+  "answer": "Answer: C) It provides alternative text for the image.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571f6036c04a585b0e9778d"
+  },
+  "question": "Q5. Which of the following is correct about JavaScript?",
+  "choiceA": "A) JavaScript is an Object-Based language",
+  "choiceB": "B) JavaScript is Assembly-language",
+  "choiceC": "C) JavaScript is an Object-Oriented language",
+  "choiceD": "D) JavaScript is a High-level language",
+  "answer": "Answer: A",
+  "__v": 0
+}]
